@@ -1,0 +1,44 @@
+{
+    "name": "pf2e-unwanted-guests",
+    "title": "Pathfinder 2e: Unwanted Guests",
+    "author": "Lachesis",
+    "description": "A short adventure for first or second level characters.",
+    "packs": [
+        {
+            "name": "unwanted-guests",
+            "label": "Unwanted Guests",
+            "type": "Adventure",
+            "system": "pf2e",
+            "path": "packs/unwanted-guests.db",
+            "entity": "Adventure",
+            "module": "unwanted-guests"
+        }
+    ],
+    "relationships": {
+        "systems": [
+          {
+            "id": "pf2e",
+            "compatibility": {
+              "minimum": "4.0.0"
+            }
+          }
+        ]
+      },
+    "id": "unwanted-guests",
+    "authors": [
+        {
+            "name": "Lachesis"
+        }
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10",
+        "maximum": "10"
+    },
+    "dependencies": [
+      {
+          "name": "pf2e-token-bestiaries"
+      }
+    ],
+    "version": "1.0"
+}
