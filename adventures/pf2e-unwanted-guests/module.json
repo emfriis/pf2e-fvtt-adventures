@@ -2,8 +2,8 @@
     "name": "pf2e-unwanted-guests",
     "title": "Pathfinder 2e: Unwanted Guests",
     "author": "Lachesis",
-    "manifest": "https://github.com/emfriis/pf2e-fvtt-adventures/blob/main/adventures/pf2e-unwanted-guests/module.json",
-    "download": "https://github.com/emfriis/pf2e-fvtt-adventures/blob/main/adventures/pf2e-unwanted-guests",
+    "manifest": "https://github.com/emfriis/pf2e-fvtt-adventures/adventures/pf2e-unwanted-guests/module.json",
+    "download": "https://github.com/emfriis/pf2e-fvtt-adventures/adventures/pf2e-unwanted-guests",
     "description": "A short adventure for first or second level characters.",
     "packs": [
         {
